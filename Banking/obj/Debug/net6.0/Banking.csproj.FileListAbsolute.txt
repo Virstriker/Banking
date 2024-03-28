@@ -1,0 +1,15 @@
+C:\Users\Vinayak.Gohel\source\repos\Banking\Banking\bin\Debug\net6.0\Banking.exe
+C:\Users\Vinayak.Gohel\source\repos\Banking\Banking\bin\Debug\net6.0\Banking.deps.json
+C:\Users\Vinayak.Gohel\source\repos\Banking\Banking\bin\Debug\net6.0\Banking.runtimeconfig.json
+C:\Users\Vinayak.Gohel\source\repos\Banking\Banking\bin\Debug\net6.0\Banking.dll
+C:\Users\Vinayak.Gohel\source\repos\Banking\Banking\bin\Debug\net6.0\Banking.pdb
+C:\Users\Vinayak.Gohel\source\repos\Banking\Banking\obj\Debug\net6.0\Banking.csproj.AssemblyReference.cache
+C:\Users\Vinayak.Gohel\source\repos\Banking\Banking\obj\Debug\net6.0\Banking.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Vinayak.Gohel\source\repos\Banking\Banking\obj\Debug\net6.0\Banking.AssemblyInfoInputs.cache
+C:\Users\Vinayak.Gohel\source\repos\Banking\Banking\obj\Debug\net6.0\Banking.AssemblyInfo.cs
+C:\Users\Vinayak.Gohel\source\repos\Banking\Banking\obj\Debug\net6.0\Banking.csproj.CoreCompileInputs.cache
+C:\Users\Vinayak.Gohel\source\repos\Banking\Banking\obj\Debug\net6.0\Banking.dll
+C:\Users\Vinayak.Gohel\source\repos\Banking\Banking\obj\Debug\net6.0\refint\Banking.dll
+C:\Users\Vinayak.Gohel\source\repos\Banking\Banking\obj\Debug\net6.0\Banking.pdb
+C:\Users\Vinayak.Gohel\source\repos\Banking\Banking\obj\Debug\net6.0\Banking.genruntimeconfig.cache
+C:\Users\Vinayak.Gohel\source\repos\Banking\Banking\obj\Debug\net6.0\ref\Banking.dll
